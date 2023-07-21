@@ -15,6 +15,10 @@ This repository contains scripts for dealing with XML and YOLO (You Only Look On
 
 5. `yolo2xml.py`: This Python script converts bounding box annotations from YOLO format to XML format. It reads YOLO formatted files, extracts the bounding box annotations, converts them to XML format, and writes the results to a new file. This can be useful when you want to use a dataset annotated in YOLO format with a deep learning model that requires XML format annotations.
 
+6. `cocoplot.py`: plot the image with the corresponding Yolo format
+
+7. `coco2xml.py`: convert yolo format to xml format
+
 ## Usage
 
 To use these scripts, you need to have the corresponding image files and annotation files in the same directory as the script. The annotation file should be in the format that the script expects (either XML or YOLO format). 
