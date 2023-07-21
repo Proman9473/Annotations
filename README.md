@@ -21,4 +21,4 @@ To use these scripts, you need to have the corresponding image files and annotat
 
 For the Python scripts, you need to have Python installed along with the required libraries (Matplotlib, xml.etree.ElementTree, etc.). For the MATLAB scripts, you need to have MATLAB installed.
 
-Please note that this `README.md` provides an overview of what each script does based on their initial few lines of code. For a complete understanding of how to use these scripts and any additional functionalities they might have, you should refer to the full scripts or any available documentation.
+
